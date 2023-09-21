@@ -1,0 +1,40 @@
+{
+    "elements": [
+        {
+            "type": "MRV Provider",
+            "label": "Thryve.earth",
+            "description": "Thryve is a platform that unites multiple stakeholders to develop high-quality nature-based carbon projects in a scalable manner.",
+            "location": "Oahu"
+        },
+        {
+            "type": "Cofounder",
+            "label": "Jeff",
+            "description": "Jeff likes to run and save the world.",
+            "location": "Menlo Park"
+        },
+        {
+            "type": "Startup",
+            "label": "Kumu",
+            "description": "A network visualization startup cofounded by [[Ryan]] and [[Jeff]].",
+            "website": "https://kumu.io"
+        }
+    ],
+    "connections": [
+        {
+            "from": "Ryan",
+            "to": "Jeff",
+            "type": "Family",
+            "description": "[[Ryan]] and [[Jeff]] are brothers."
+        },
+        {
+            "from": "Ryan",
+            "to": "Kumu",
+            "type": "Cofounder"
+        },
+        {
+            "from": "Jeff",
+            "to": "Kumu",
+            "type": "Cofounder"
+        }
+    ]
+}
