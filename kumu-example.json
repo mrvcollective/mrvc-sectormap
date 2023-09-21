@@ -1,0 +1,224 @@
+{
+  "schema": "1.0.0",
+  "title": "Thryve Earth - Stakeholder Map",
+  "description": "A Kumu map representing stakeholders related to Thryve Earth.",
+  "elements": [
+    {
+      "id": "thryve",
+      "type": "MRV Provider",
+      "label": "Thryve.Earth",
+      "attributes": {
+        "Website": "https://www.thryve.earth/",
+        "Description": "Thryve is a platform that unites multiple stakeholders to develop high-quality nature-based carbon projects in a scalable manner.",
+        "Logo Links": [
+          "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/attmDLPjjy1cw9Y6f",
+          "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/attnOMXun9gboLt6l",
+          "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/atthkuurUQTxbWCts",
+          "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/attftU6sMsn7McCWD",
+          "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/attEfj4CcMseK0UpH"
+        ],
+        "Stakeholder Type": "MRV Provider",
+        "Stage of Development": "Have Product & Pilots & Customers (with revenue)",
+        "Key Technologies": "AI / Machine Learning, Remote Sensing, Satellite Images, Something else",
+        "Services Provided": "We are a tech-enabled project developer that has a custom built platform to streamline origination and development of high quality NbS projects. As part of the platform we provide also MRV services, currently focusing on pre-feasibility assessments for forestry projects including remote sensing analysis of land cover, eligibility assessments, methodology and project design, carbon modeling, and financial modeling. This is not a semi-automated process but goes above and beyond just remote sensing analysis.",
+        "Operating Regions": "Asia, Africa, Americas",
+        "Regional Presence": "South Asia, South America, South Africa",
+        "Biome": "Terrestrial",
+        "Interests and Needs": "Business Development, Fundraising, Customer Development, Partnership Opportunities, Pilot Project Opportunities, Regional Partners, Technical / Domain Specific Expertise",
+        "Ask Me Anything": "Ask me later",
+        "LinkedIn Profile": "https://www.linkedin.com/company/thryve-earth/",
+        "Number of Employees": 60,
+        "Funding Stage": "Ask me later",
+        "Investment Interest": "Not yet, I'd love help to create one",
+      },
+      "x": 100,
+      "y": 100
+    },
+        {
+          "id": "thryve",
+          "type": "MRV Provider",
+          "label": "Thryve.Moon",
+          "attributes": {
+            "Website": "https://www.thryve.earth/",
+            "Description": "Thryve is a platform that unites multiple stakeholders to develop high-quality nature-based carbon projects in a scalable manner.",
+            "Logo Links": [
+              "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/attmDLPjjy1cw9Y6f",
+              "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/attnOMXun9gboLt6l",
+              "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/atthkuurUQTxbWCts",
+              "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/attftU6sMsn7McCWD",
+              "https://airtable.com/appZ5G5VFnOqi1DFc/tblBVeYISb4mCNFkH/recFPOX0eZsITg4by/fldLCgxPlFaddJRAj/attEfj4CcMseK0UpH"
+            ],
+            "Stakeholder Type": "MRV Provider",
+            "Stage of Development": "Have Product & Pilots & Customers (with revenue)",
+            "Key Technologies": "AI / Machine Learning, Remote Sensing, Satellite Images, Something else",
+            "Services Provided": "We are a tech-enabled project developer that has a custom built platform to streamline origination and development of high quality NbS projects. As part of the platform we provide also MRV services, currently focusing on pre-feasibility assessments for forestry projects including remote sensing analysis of land cover, eligibility assessments, methodology and project design, carbon modeling, and financial modeling. This is not a semi-automated process but goes above and beyond just remote sensing analysis.",
+            "Operating Regions": "Asia, Africa, Americas",
+            "Regional Presence": "South Asia, South America, South Africa",
+            "Biome": "Terrestrial",
+            "Interests and Needs": "Business Development, Fundraising, Customer Development, Partnership Opportunities, Pilot Project Opportunities, Regional Partners, Technical / Domain Specific Expertise",
+            "Ask Me Anything": "Ask me later",
+            "LinkedIn Profile": "https://www.linkedin.com/company/thryve-earth/",
+            "Number of Employees": 60,
+            "Funding Stage": "Ask me later",
+            "Investment Interest": "Not yet, I'd love help to create one",
+          },
+          "x": 100,
+          "y": 100
+        },
+    {
+      "id": "southAsia",
+      "type": "region",
+      "label": "South Asia",
+      "attributes": {
+        "Region": "South Asia"
+      },
+      "x": 200,
+      "y": 300
+    },
+    {
+      "id": "southAmerica",
+      "type": "region",
+      "label": "South America",
+      "attributes": {
+        "Region": "South America"
+      },
+      "x": 300,
+      "y": 300
+    },
+    {
+      "id": "southAfrica",
+      "type": "region",
+      "label": "South Africa",
+      "attributes": {
+        "Region": "South Africa"
+      },
+      "x": 400,
+      "y": 300
+    },
+    {
+      "id": "directPhysicalInput1",
+      "type": "ecosystemService",
+      "label": "Direct Physical Input",
+      "attributes": {},
+      "x": 500,
+      "y": 200
+    },
+    {
+      "id": "enablesProductionProcess",
+      "type": "ecosystemService",
+      "label": "Enables Production Process",
+      "attributes": {},
+      "x": 600,
+      "y": 200
+    },
+    {
+      "id": "mitigatesDirectImpacts",
+      "type": "ecosystemService",
+      "label": "Mitigates Direct Impacts",
+      "attributes": {},
+      "x": 700,
+      "y": 200
+    },
+    {
+      "id": "protectionFromDisruption",
+      "type": "ecosystemService",
+      "label": "Protection from Disruption",
+      "attributes": {},
+      "x": 800,
+      "y": 200
+    },
+    {
+      "id": "animalBasedEnergy",
+      "type": "ecosystemService",
+      "label": "Animal-based energy",
+      "attributes": {},
+      "x": 500,
+      "y": 400
+    },
+    {
+      "id": "fibersAndOtherMaterials",
+      "type": "ecosystemService",
+      "label": "Fibers and other materials",
+      "attributes": {},
+      "x": 600,
+      "y": 400
+    },
+    {
+      "id": "geneticMaterials",
+      "type": "ecosystemService",
+      "label": "Genetic materials",
+      "attributes": {},
+      "x": 700,
+      "y": 400
+    },
+    {
+      "id": "groundWater",
+      "type": "ecosystemService",
+      "label": "Ground water",
+      "attributes": {},
+      "x": 800,
+      "y": 400
+    },
+    {
+      "id": "surfaceWater",
+      "type": "ecosystemService",
+      "label": "Surface water",
+      "attributes": {},
+      "x": 900,
+      "y": 400
+    },
+    {
+      "id": "maintainNurseryHabitats",
+      "type": "ecosystemService",
+      "label": "Maintain nursery habitats",
+      "attributes": {},
+      "x": 1000,
+      "y": 400
+    },
+    {
+      "id": "pollination",
+      "type": "ecosystemService",
+      "label": "Pollination",
+      "attributes": {},
+      "x": 1100,
+      "y": 400
+    },
+    {
+      "id": "soilQuality",
+      "type": "ecosystemService",
+      "label": "Soil quality",
+      "attributes": {},
+      "x": 1200,
+      "y": 400
+    }    
+
+  ],
+  "connections": [
+    {
+      "id": "thryveToSouthAsia",
+      "type": "connection",
+      "from": "thryve",
+      "to": "southAsia",
+      "label": "Regional Presence"
+    },
+    {
+      "id": "thryveToSouthAmerica",
+      "type": "connection",
+      "from": "thryve",
+      "to": "southAmerica",
+      "label": "Regional Presence"
+    },
+    {
+      "id": "thryveToSouthAfrica",
+      "type": "connection",
+      "from": "thryve",
+      "to": "southAfrica",
+      "label": "Regional Presence"
+    }
+  ],
+  "view": {
+    "zoom": 1,
+    "x": 0,
+    "y": 0
+  }
+}
