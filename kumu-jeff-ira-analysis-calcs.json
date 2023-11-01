@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "name": "IRA Analysis Calcs",
+  "name": "IRA Analysis Calcs (touched)",
   "description": "",
   "proxyImages": true,
   "defaultMap": "map-WqSBJK27",
@@ -9,7 +9,7 @@
   "attributes": [
     {
       "_id": "attr-Uvj2bDr1",
-      "name": "Anticipated Allocation/ Formula Factors",
+      "name": "Anticipated Allocation/ Formula Factors (touched)",
       "format": "string",
       "private": false,
       "limit": 1,
@@ -28,7 +28,7 @@
     },
     {
       "_id": "attr-H5CbPM9S",
-      "name": "Business Eligibility",
+      "name": "Business Eligibility (touched)",
       "format": "string",
       "private": false,
       "limit": 1,
@@ -874,7 +874,7 @@
       "_id": "elem-3ng2lcqk",
       "attributes": {
         "label": "Tribal Energy Loan Guarantee Program",
-        "description": "To support Tribal investment in energy-related projects by providing direct loans or partial loan guarantees to federally recognized Tribes, including Alaska Native villages or regional or village corporations, or a Tribal Energy Development Organization that is wholly or substantially owned by a federally recognized Indian Tribe or Alaska Native Corporation.&nbsp;The Inflation Reduction Act increased the total loan authority from $2 billion to $20 billion and provides $75 million to carry out the program.",
+        "description": "To support Tribal investment in energy-related projects by providing direct loans or partial loan guarantees to federally recognized Tribes, including Alaska Native villages or regional or village corporations, or a Tribal Energy Development Organization that is wholly or substantially owned by a federally recognized Indian Tribe or Alaska Native Corporation.&nbsp;XXXXXXXXXXXXX increased the total loan authority from $2 billion to $20 billion and provides $75 million to carry out the program.",
         "anticipated allocation/ formula factors": "No",
         "business eligibility": "-",
         "contract and/or cooperative agreement": "-",
@@ -6957,7 +6957,7 @@
     {
       "_id": "map-WqSBJK27",
       "name": "Untitled map",
-      "description": "# The Inflation Reduction Act\n\nThe Inflation Reduction Act is the biggest investment in clean energy and climate solutions in American history. It contains $500 billion in new spending and tax breaks that aim to boost clean energy, reduce healthcare costs, and increase tax revenues. This map shows where funding is going and how much is being granted. \n\n- Colored circles are sized by total amount.\n- Bolded labels are the relevant Federal Agency and sized by the cumulative amounts of items in the IRA for that particular agency. \n- Unbolded labels are the primary topics of each item and sized by the cumulative amounts of items in the IRA for that particular primary topic.\n\n---\n\n### Federal Agencies \n###### Sorted by cumulative total program value of items\n[[list?sort='size'&desc=true \"['element type'='Federal Agency']\"]]\n\n### Primary topics\n###### Sorted by cumulative total program value of items\n[[list?sort='size'&desc=true \"['element type'='primary topic']\"]]\n\n### Items\n###### Sorted by total program value\n[[list?sort='total program value'&desc=true \"item\"]]\n\n_Source: [Data from Rocky Mountain Institute: \"Breaking Down the Inflation Reduction Act. Program by Program. Incentive by Incentive](https://rmi.org/breaking-down-the-inflation-reduction-act-program-by-program-incentive-by-incentive/)_",
+      "description": "# XXXXXXXX \n\nThe Inflation Reduction Act is the biggest investment in clean energy and climate solutions in American history. It contains $500 billion in new spending and tax breaks that aim to boost clean energy, reduce healthcare costs, and increase tax revenues. This map shows where funding is going and how much is being granted. \n\n- Colored circles are sized by total amount.\n- Bolded labels are the relevant Federal Agency and sized by the cumulative amounts of items in the IRA for that particular agency. \n- Unbolded labels are the primary topics of each item and sized by the cumulative amounts of items in the IRA for that particular primary topic.\n\n---\n\n### Federal Agencies \n###### Sorted by cumulative total program value of items\n[[list?sort='size'&desc=true \"['element type'='Federal Agency']\"]]\n\n### Primary topics\n###### Sorted by cumulative total program value of items\n[[list?sort='size'&desc=true \"['element type'='primary topic']\"]]\n\n### Items\n###### Sorted by total program value\n[[list?sort='total program value'&desc=true \"item\"]]\n\n_Source: [Data from Rocky Mountain Institute: \"Breaking Down the Inflation Reduction Act. Program by Program. Incentive by Incentive](https://rmi.org/breaking-down-the-inflation-reduction-act-program-by-program-incentive-by-incentive/)_",
       "scale": 1,
       "center": {
         "x": 0,
